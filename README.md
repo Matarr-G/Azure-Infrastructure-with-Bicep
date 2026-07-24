@@ -15,7 +15,7 @@ CloudXeus runs an online learning platform with mixed on-prem + cloud resources.
 Built a zero-trust Azure environment with Infrastructure as Code.
 
 ### Architecture Diagram
-![Architecture](architecture/cloudxeus-architecture.png)
+![Architecture](https://github.com/Matarr-G/Azure-Infrastructure-with-Bicep/blob/main/01.%2BInfrastructure.pdf)
 
 ### Key Features Implemented
 | Business Goal | Azure Solution | Impact |
