@@ -37,3 +37,16 @@ az deployment group create \
   --resource-group rg-cloudxeus-dev \
   --template-file infra/main.bicep \
   --parameters infra/parameters/dev.parameters.json
+
+## Documentation
+### 1.Problem Statement
+
+### 2.Architecture Deep Dive
+
+### 3.Step-by-step Deployment
+
+### 4.Lesson Learned
+
+### 5.
+
+
