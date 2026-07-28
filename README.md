@@ -38,15 +38,11 @@ az deployment group create \
   --template-file infra/main.bicep \
   --parameters infra/parameters/dev.parameters.json
 
-## Documentation
-### 1.Problem Statement
+### Documentation
+[Problem Statement](...)
+[Architecture Deep Dive](...)
+[Step-by-step Deployment](...)
+[Lesson Learned](...)
 
-### 2.Architecture Deep Dive
-
-### 3.Step-by-step Deployment
-
-### 4.Lesson Learned
-
-### 5.
 
 
