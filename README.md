@@ -29,6 +29,15 @@ Built a zero-trust Azure environment with Infrastructure as Code.
 ## Tech Stack
 `Azure` `Bicep` `Azure CLI` `Git` `Azure Bastion` `Internal Load Balancer` `Key Vault` `Private Endpoints` `NSG`
 
+## Documentation
+[Problem Statement](https://github.com/Matarr-Portfolio/Problem-Statement/blob/main/README.md) 
+
+[Architecture](https://github.com/Matarr-Portfolio/Architecture/edit/main/README.md)
+
+[Step-by-Step Deployment](https://github.com/Matarr-Portfolio/deployement-guide/edit/main/README.md)
+
+[lessons-learned](https://github.com/Matarr-Portfolio/Lesson-Learned/blob/main/README.md)
+
 ## Quick Deploy
 ```bash
 az login
@@ -38,11 +47,7 @@ az deployment group create \
   --template-file infra/main.bicep \
   --parameters infra/parameters/dev.parameters.json
 
-## Problem Statement
-[Problem-Statement](https://github.com/Matarr-Portfolio/Problem-Statement/blob/main/README.md)
-[Architecture Deep Dive](...)
-[Step-by-step Deployment](...)
-[Lesson Learned](...)
+
 
 
 
