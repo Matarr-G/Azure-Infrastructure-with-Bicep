@@ -34,7 +34,7 @@ Built a zero-trust Azure environment with Infrastructure as Code.
 
 [Architecture](https://github.com/Matarr-Portfolio/Architecture/edit/main/README.md)
 
-[Step-by-Step Deployment](https://github.com/Matarr-Portfolio/deployement-guide/edit/main/README.md)
+[Step-by-Step Deployment](https://github.com/Matarr-Portfolio/deployement-guide/blob/main/README.md)
 
 [lessons-learned](https://github.com/Matarr-Portfolio/Lesson-Learned/blob/main/README.md)
 
