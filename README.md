@@ -38,8 +38,8 @@ az deployment group create \
   --template-file infra/main.bicep \
   --parameters infra/parameters/dev.parameters.json
 
-
-[Problem Statement](...)
+## Problem Statement
+[Problem-Statement](https://github.com/Matarr-Portfolio/Problem-Statement/blob/main/README.md)
 [Architecture Deep Dive](...)
 [Step-by-step Deployment](...)
 [Lesson Learned](...)
